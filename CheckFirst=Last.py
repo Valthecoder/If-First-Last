@@ -10,9 +10,8 @@ else:
     print("result is False")
 
 if numbers_y[0] == numbers_y[-1]:
-    print ("Given List: ", numbers_y)
+    print("Given List: ", numbers_y)
     print("result is True")
 else:
     print("Given List: ", numbers_y)
     print("result is False")
-
